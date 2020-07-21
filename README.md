@@ -1,3 +1,3 @@
 # wafv2_terraform
 
-Its create two webacl using wafv2 in AWS to allow Cloudflare IPs only.
+Its create two webacl and all dependency using AWS Wafv2 to allow Cloudflare IPs only.
